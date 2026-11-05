@@ -1,4 +1,2 @@
-Строка из third
-Текст из fourth
-Текст из third
 Строка из fourth
+Строка из third
